@@ -64,4 +64,17 @@
 ### undefined
 
 
-### 
+### Boolean
+
+
+### Number
+
+
+### BigInt 
+
+
+### String
+
+
+### Symbol
+
