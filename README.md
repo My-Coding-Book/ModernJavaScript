@@ -11,18 +11,24 @@
 |  | 2 | [Browser Console](#browser-console) |
 |  | 3 | [Link External File](#link-external-file) |
 | **ii** |  | Variables |
-|  |  | Declarations |
+| **ii.i** |  | Declarations |
 |  | 4 | [var](#var) |
 |  | 5 | [let](#let) |
 |  | 6 | [const](#const) |
-|  |  | Scope |
+| **ii.ii** |  | Scope |
 |  | 7 | [Global](#global) |
 |  | 8 | [Function](#function) |
 |  | 9 | [Block](#block) |
 | **iii** |  | Hoisting |
-|  | 10 | [Hoisting] |
+|  | 10 | [Hoisting](#Hoisting) |
 | **iv** | | Data Types and Data Structures |
-|  |  |  |
+| **iv.i** |  | Primitive Type |
+|  | 11 | [undefined](#undefined) |
+|  | 12 | [Boolean](#boolean) |
+|  | 13 | [Number](#Number) |
+|  | 14 | [BigInt](#BigInt) |
+|  | 15 | [String](#string) |
+|  | 16 | [Symbol](#symbol) |
 
 
 ### Script Tag
@@ -53,3 +59,9 @@
 
 
 ### Hoisting
+
+
+### undefined
+
+
+### 
