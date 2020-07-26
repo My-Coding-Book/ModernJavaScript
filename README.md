@@ -11,15 +11,15 @@
 |  | 2 | [Browser Console](#browser-console) |
 |  | 3 | [Link External File](#link-external-file) |
 | **ii** |  | Variables |
-| *a* |  | Declarations |
-|  | 4 | [var](#var) |
-|  | 5 | [let](#let) |
-|  | 6 | [const](#const) |
-| *b* |  | Scope |
-|  | 7 | [Global](#global) |
-|  | 8 | [Function](#function) |
-|  | 9 | [Block](#block) |
-| **ii.iii** |  | 10 | [Hoisting](#Hoisting) |
+| * *a* |  | Declarations |
+|  | 1 | [var](#var) |
+|  | 2 | [let](#let) |
+|  | 3 | [const](#const) |
+| * *b* |  | Scope |
+|  | 4 | [Global](#global) |
+|  | 5 | [Function](#function) |
+|  | 6 | [Block](#block) |
+| * *c* |  | 7 | [Hoisting](#Hoisting) |
 | **iii** | | Data Types and Data Structures |
 | **iii.i** |  | Primitive Type |
 |  | 11 | [undefined](#undefined) |
