@@ -2,7 +2,11 @@
 
 ## Topics to cover
 
-* **Fundamentals**
+* [Fundamentals of JavaScript](#Fundamentals-of-JavaScript)
+
+* [Advanced JavaScrript](#Advanced-JavaScrript)
+
+## Fundamentals of JavaScript
 
 | Chapter | Sub | # | Topics |
 | ------- | --- | - | ------ |
@@ -73,6 +77,14 @@
 |  |  | 4 | [Parameters & Arguments](#Parameters-&-Arguments) |
 |  |  | 5 | [Scope](#Scope) |
 |  |  | 6 | [Arrow Functions](#Arrow-Functions) |
+
+
+## Advanced JavaScrript
+
+| Chapter | Sub | # | Topics |
+| ------- | --- | - | ------ |
+| **i** |  |  | General Things |
+|  |  | 1 | [Script Tag] |
 
 
 ## General Things
