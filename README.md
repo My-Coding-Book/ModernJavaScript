@@ -39,10 +39,10 @@
 |  |  | 12.2 | [WeakSet](#weakSet) |
 |  |  | 13 | [Date](#date) |
 | **iv** |  |  | Type Conversion |
-|  |  | 1 | [Explicity Conversion](#Explicity Conversion) |
-|  |  | 2 | [Implicit Conversion](#Implicit Conversion) |
+|  |  | 1 | [Explicity Conversion](#Explicity-Conversion) |
+|  |  | 2 | [Implicit Conversion](#Implicit-Conversion) |
 | **v** |  |  | Equality |
-|  |  | 1 | [Abstract Equality Operator](#Abstract Equality Operator)|
+|  |  | 1 | [Abstract Equality Operator](#Abstract-Equality-Operator)|
 
 
 
