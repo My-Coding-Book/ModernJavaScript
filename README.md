@@ -11,11 +11,11 @@
 |  | 2 | [Browser Console](#browser-console) |
 |  | 3 | [Link External File](#link-external-file) |
 | **ii** |  | Variables |
-| -> |  | Declarations |
+| *a* |  | Declarations |
 |  | 4 | [var](#var) |
 |  | 5 | [let](#let) |
 |  | 6 | [const](#const) |
-| * |  | Scope |
+| *b* |  | Scope |
 |  | 7 | [Global](#global) |
 |  | 8 | [Function](#function) |
 |  | 9 | [Block](#block) |
