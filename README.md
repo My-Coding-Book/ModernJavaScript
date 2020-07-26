@@ -11,33 +11,33 @@
 |  | 2 | [Browser Console](#browser-console) |
 |  | 3 | [Link External File](#link-external-file) |
 | **ii** |  | Variables |
-| * *a* |  | Declarations |
+| *_a* |  | Declarations |
 |  | 1 | [var](#var) |
 |  | 2 | [let](#let) |
 |  | 3 | [const](#const) |
-| * *b* |  | Scope |
+| *_b* |  | Scope |
 |  | 4 | [Global](#global) |
 |  | 5 | [Function](#function) |
 |  | 6 | [Block](#block) |
-| * *c* |  | 7 | [Hoisting](#Hoisting) |
+| *_c* | 7 | [Hoisting](#Hoisting) |
 | **iii** | | Data Types and Data Structures |
-| **iii.i** |  | Primitive Type |
-|  | 11 | [undefined](#undefined) |
-|  | 12 | [Boolean](#boolean) |
-|  | 13 | [Number](#Number) |
-|  | 14 | [BigInt](#BigInt) |
-|  | 15 | [String](#string) |
-|  | 16 | [Symbol](#symbol) |
-| **iii.ii** | 17 | [null](#null) |
-| **iii.iii** | 18 | [Object](#object) |
-| **iii.iv** | 19 | [Function](#function) |
-| **iii.v** |  | Data Structures |
-|  | 1 | [Array](#array) |
-|  | 2.1 | [Map](#map) |
-|  | 2.2 | [WeakMap](#weakMap) |
-|  | 3.1 | [Set](#set) |
-|  | 3.2 | [WeakSet](#weakSet) |
-|  | 4 | [Date](#date) |
+| *_a* |  | Primitive Type |
+|  | 1 | [undefined](#undefined) |
+|  | 2 | [Boolean](#boolean) |
+|  | 3 | [Number](#Number) |
+|  | 4 | [BigInt](#BigInt) |
+|  | 5 | [String](#string) |
+|  | 6 | [Symbol](#symbol) |
+| *_b* | 7 | [null](#null) |
+| *_c* | 8 | [Object](#object) |
+| *_d* | 9 | [Function](#function) |
+| *_e* |  | Data Structures |
+|  | 10 | [Array](#array) |
+|  | 11.1 | [Map](#map) |
+|  | 11.2 | [WeakMap](#weakMap) |
+|  | 12.1 | [Set](#set) |
+|  | 12.2 | [WeakSet](#weakSet) |
+|  | 13 | [Date](#date) |
 
 
 
