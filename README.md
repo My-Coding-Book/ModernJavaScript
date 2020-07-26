@@ -11,7 +11,7 @@
 |  | 2 | [Browser Console](#browser-console) |
 |  | 3 | [Link External File](#link-external-file) |
 | **ii** |  | Variables |
-| * |  | Declarations |
+| -> |  | Declarations |
 |  | 4 | [var](#var) |
 |  | 5 | [let](#let) |
 |  | 6 | [const](#const) |
