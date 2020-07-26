@@ -79,13 +79,29 @@
 |  |  | 6 | [Arrow Functions](#Arrow-Functions) |
 
 
+[-Back to Top-](#Modern-JavaScript)
+
+
 ## Advanced JavaScrript
 
-| Chapter | Sub | # | Topics |
-| ------- | --- | - | ------ |
-| **i** |  |  | General Things |
-|  |  | 1 | [Script Tag] |
+| Chapter | # | Topics |
+| ------- | - | ------ |
+| **i** |  | [Advanced Scope](#Advanced-Scope) |
+| **ii** |  | [Closure](#closure) |
+| **iii** |  | [Currying](#Currying) |
+| **iv** |  | this |
+|  | 1 | [Implicit Binding](#Implicit-Binding) |
+|  | 2 | [Explicit Binding](#Explicit-Binding) |
+|  | 3 | [new Bindin](#new-Bindin) |
+|  | 4 | [Lexical Binding](#Lexical-Binding) |
+|  | 5 | [Default Binding](#Default-Binding) |
+| **v** |  | [Prototype](#Prototype) |
 
+
+[-Back to Top-](#Modern-JavaScript)
+
+
+# Fundamentals of JavaScript
 
 ## General Things
 
@@ -283,10 +299,33 @@
   ### Arrow Functions
 
 
-### 
+# Advanced JavaScrript
+
+## Advanced Scope
 
 
-### 
+## Closure
 
 
-### 
+## Currying
+
+
+## this
+
+
+### Implicit Binding
+
+
+### Explicit Binding
+
+
+### new Bindin
+
+
+### Lexical Binding
+
+
+### Default Binding
+
+
+## Prototype
