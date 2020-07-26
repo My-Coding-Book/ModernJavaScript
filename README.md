@@ -115,133 +115,160 @@
   ### Hoisting
 
 
-### undefined
+## Data Types and Data Structures
 
+* _**Primitive Type**_
 
-### Boolean
+  ### undefined
 
 
-### Number
+  ### Boolean
 
 
-### BigInt 
+  ### Number
 
 
-### String
+  ### BigInt 
 
 
-### Symbol
+  ### String
 
 
-### null
+  ### Symbol
+  
 
+* _**null**_
 
-### Object
+  ### null
 
 
-### Function
+* _**Object**_
 
+  ### Object
 
-### Array
 
+* _**Function**_
 
-### Map
+  ### Function
 
 
-### WeakMap
+* _**Data Structures**_
 
+  ### Array
 
-### Set
 
+  ### Map
 
-### WeakSet
 
+  ### WeakMap
 
-### Date
 
+  ### Set
 
-### Explicity Conversion
 
+  ### WeakSet
 
-### Implicit Conversion
 
+  ### Date
 
-### Abstract Equality Operator
 
+## Type Conversion
 
-### while
+  ### Explicity Conversion
 
 
-### do...while
+  ### Implicit Conversion
 
 
-### for
+## Equality
 
+  ### Abstract Equality Operator
+  
+  
+  ### Strict Equality Operator
 
-### break/continue
 
+## Loops
 
-### for...in
+  ### while
 
 
-### for...of
+  ### do...while
 
 
-### if...else
+  ### for
 
 
-### switch
+  ### break/continue
 
 
-### try/catch/throw
+  ### for...in
 
 
-### Assignment Operators
+  ### for...of
 
 
-### Arithmetic Operators
+## Flow Control
 
+  ### if...else
 
-### Logical Operators
 
+  ### switch
 
-### Conditional Operators
 
+  ### try/catch/throw
 
-### Comparison Operators
 
+## Expressions & Operators
 
-### Relational Operators
+  ### Assignment Operators
 
 
-### Bitwise Operators
+  ### Arithmetic Operators
 
 
-### String Operators
+  ### Logical Operators
 
 
-### Comma Operator
+  ### Conditional Operators
 
 
-### Unary Operators
+  ### Comparison Operators
 
 
-### Function Declarations
+  ### Relational Operators
 
 
-### Function Expressions
+  ### Bitwise Operators
 
 
-### Calling Functions
+  ### String Operators
 
 
-### Parameters & Arguments
+  ### Comma Operator
 
 
-### Scope
+  ### Unary Operators
 
 
-### Arrow Functions
+## Functions
+
+  ### Function Declarations
+
+
+  ### Function Expressions
+
+
+  ### Calling Functions
+
+
+  ### Parameters & Arguments
+
+
+  ### Scope
+
+
+  ### Arrow Functions
 
 
 ### 
