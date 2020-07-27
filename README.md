@@ -52,7 +52,7 @@
 |  |  | 1 | [while](#while) |
 |  |  | 2 | [do...while](#do...while) |
 |  |  | 3 | [for](#for) |
-|  |  | 4 | [break/continue](#break/continue) |
+|  |  | 4 | [break or continue](#break-or-continue) |
 |  |  | 5 | [for...in](#for...in) |
 |  |  | 6 | [for...of](#for...of) |
 | **vii** |  |  | Flow Control |
@@ -243,7 +243,7 @@
   ### for
 
 
-  ### break/continue
+  ### break or continue
 
 
   ### for...in
