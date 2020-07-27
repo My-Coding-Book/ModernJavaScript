@@ -96,6 +96,22 @@
 |  | 4 | [Lexical Binding](#Lexical-Binding) |
 |  | 5 | [Default Binding](#Default-Binding) |
 | **v** |  | [Prototype](#Prototype) |
+| **vi** |  | [Prototypal Inheritance](#Prototypal-Inheritance) |
+| **vii** |  | [Class](#Class) |
+| **viii** |  | [Iterators](#Iterators) |
+| **ix** |  | [Generators](#Generators) |
+| **x** |  | [Event Loop](#Event-Loop) |
+| **xi** |  | Asynchronous JavaScript |
+|  | 1 | [setTimeout](#setTimeout) |
+|  | 2 | [setInterval](#setInterval) |
+|  | 3 | [callbacks](#callbacks) |
+|  | 4 | [Promises](#Promises) |
+|  | 5 | [async await](#async-await) |
+| **xii** |  | Module System |
+|  | 1 | [CJS](#CJS) |
+|  | 2 | [ESM](#ESM) |
+|  | 3 | [Import/Export](#Import/Export) |
+|  | 4 | [Default and Named Exports](#Default-and-Named-Exports) |
 
 
 [-Back to Top-](#Modern-JavaScript)
@@ -329,3 +345,49 @@
 
 
 ## Prototype
+
+
+## Prototypal Inheritance
+
+
+## Class
+
+
+## Iterators
+
+
+## Generators
+
+
+## Event Loop
+
+
+## Asynchronous JavaScript
+
+### setTimeout
+
+
+### setInterval
+
+
+### callbacks
+
+
+### Promises
+
+
+### async await
+
+
+## Module System
+
+### CJS
+
+
+### ESM
+
+
+### Import/Export
+
+
+### Default and Named Exports
