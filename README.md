@@ -6,6 +6,8 @@
 
 * [Advanced JavaScrript](#Advanced-JavaScrript)
 
+* [Web APIs](#Web-APIs)
+
 ## Fundamentals of JavaScript
 
 | Chapter | Sub | # | Topics |
@@ -56,7 +58,7 @@
 |  |  | 5 | [for-in](#for-in) |
 |  |  | 6 | [for-of](#for-of) |
 | **vii** |  |  | Flow Control |
-|  |  | 1 | [if...else](#if-else) |
+|  |  | 1 | [if-else](#if-else) |
 |  |  | 2 | [switch](#switch) |
 |  |  | 3 | [try or catch or throw](#try-or-catch-or-throw) |
 | **viii** |  |  | Expressions & Operators |
@@ -112,6 +114,21 @@
 |  | 2 | [ESM](#ESM) |
 |  | 3 | [Import or Export](#Import-or-Export) |
 |  | 4 | [Default and Named Exports](#Default-and-Named-Exports) |
+
+
+[-Back to Top-](#Modern-JavaScript)
+
+
+## Web APIs
+
+
+| # | Topics |
+| - | ------ |
+| 1 | [DOM](#DOM) |
+| 2 | [XHR and Fetch](#XHR-and-Fetch) |
+| 3 | [Storage](#Storage) |
+| 4 | [Video and Audio](#Video-and-Audio) |
+| 5 | [Drawing Graphics](#Drawing-Graphics) |
 
 
 [-Back to Top-](#Modern-JavaScript)
@@ -391,3 +408,17 @@
 
 
 ### Default and Named Exports
+
+
+# Web APIs
+
+## DOM
+
+
+## XHR and Fetch
+
+
+## Storage
+
+
+## Video and Audio
