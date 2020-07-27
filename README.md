@@ -8,6 +8,9 @@
 
 * [Web APIs](#Web-APIs)
 
+* [Tooling and Miscellanious](#Tooling-and-Miscellanious)
+
+
 ## Fundamentals of JavaScript
 
 | Chapter | Sub | # | Topics |
@@ -132,6 +135,20 @@
 
 
 [-Back to Top-](#Modern-JavaScript)
+
+
+## Tooling and Miscellanious
+
+| Mechanism | # | Tools |
+| --------- | - | ----- |
+| Linters |  | [eslint](#eslint) |
+| Code Formatters |  | [Prettier](#Prettier) |
+| Bundlers |  |  |
+|  | 1 | Webpack |
+|  | 2 | Rollup |
+|  | 3 | Parcel |
+| TypeScript |
+
 
 
 # Fundamentals of JavaScript
@@ -330,6 +347,9 @@
 
 
   ### Arrow Functions
+  
+  
+  [-Back to Top-](#Modern-JavaScript)
 
 
 # Advanced JavaScrript
@@ -410,6 +430,9 @@
 ### Default and Named Exports
 
 
+[-Back to Top-](#Modern-JavaScript)
+
+
 # Web APIs
 
 ## DOM
@@ -422,3 +445,42 @@
 
 
 ## Video and Audio
+
+
+## Drawing Graphics
+
+
+[-Back to Top-](#Modern-JavaScript)
+
+
+# Tooling and Miscellaneous
+
+## Linters
+
+### eslint
+
+
+
+## Code Formatters
+
+### Prettier
+
+
+
+## Bundlers 
+
+### Webpack
+
+
+
+### Rollup
+
+
+
+### Parcel
+
+
+
+## TypeScript
+
+@ Abc
