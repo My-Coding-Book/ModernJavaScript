@@ -50,15 +50,15 @@
 |  |  | 2 | [Strict Equality Operator](#Strict-Equality-Operator) |
 | **vi** |  |  | Loops |
 |  |  | 1 | [while](#while) |
-|  |  | 2 | [do...while](#do...while) |
+|  |  | 2 | [do-while](#do-while) |
 |  |  | 3 | [for](#for) |
 |  |  | 4 | [break or continue](#break-or-continue) |
-|  |  | 5 | [for...in](#for...in) |
-|  |  | 6 | [for...of](#for...of) |
+|  |  | 5 | [for-in](#for-in) |
+|  |  | 6 | [for-of](#for-of) |
 | **vii** |  |  | Flow Control |
-|  |  | 1 | [if...else](#if...else) |
+|  |  | 1 | [if...else](#if-else) |
 |  |  | 2 | [switch](#switch) |
-|  |  | 3 | [try/catch/throw](#try/catch/throw) |
+|  |  | 3 | [try or catch or throw](#try-or-catch-or-throw) |
 | **viii** |  |  | Expressions & Operators |
 |  |  | 1 | [Assignment Operators](#Assignment-Operators) |
 |  |  | 2 | [Arithmetic Operators](#Arithmetic-Operators) |
@@ -110,7 +110,7 @@
 | **xii** |  | Module System |
 |  | 1 | [CJS](#CJS) |
 |  | 2 | [ESM](#ESM) |
-|  | 3 | [Import/Export](#Import/Export) |
+|  | 3 | [Import or Export](#Import-or-Export) |
 |  | 4 | [Default and Named Exports](#Default-and-Named-Exports) |
 
 
@@ -237,7 +237,7 @@
   ### while
 
 
-  ### do...while
+  ### do-while
 
 
   ### for
@@ -246,21 +246,21 @@
   ### break or continue
 
 
-  ### for...in
+  ### for-in
 
 
-  ### for...of
+  ### for-of
 
 
 ## Flow Control
 
-  ### if...else
+  ### if-else
 
 
   ### switch
 
 
-  ### try/catch/throw
+  ### try or catch or throw
 
 
 ## Expressions & Operators
@@ -387,7 +387,7 @@
 ### ESM
 
 
-### Import/Export
+### Import or Export
 
 
 ### Default and Named Exports
